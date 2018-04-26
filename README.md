@@ -16,3 +16,10 @@
 ## 03 [Instances](https://youtu.be/NjN00cM18Z4?t=29m29s)
 
 * Instantiate (allocate memory for) new objects with the **new** operator.
+
+&nbsp;
+## 04 [TypeScript Constructors](https://youtu.be/tiWqCBXnWj0)
+
+* Use a **constructor** method - called whenever an object is instantiated - in order to assign initial values.
+* In TypeScript we **cannot overload** (have multiple versions of) the constructor method.
+* In order to be able not to assign initial values, we make them **optional**, by use of `?`.
