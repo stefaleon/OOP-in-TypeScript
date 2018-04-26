@@ -11,3 +11,8 @@
 
 * Achieve code **cohesion** with classes.
 * Contain related code parts (members and functions) in one unit as **fields** and **methods** in one **class**.
+
+&nbsp;
+## 03 [Instances](https://youtu.be/NjN00cM18Z4?t=29m29s)
+
+* Instantiate (allocate memory for) new objects with the **new** operator.
